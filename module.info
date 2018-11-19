@@ -1,0 +1,6 @@
+{
+    "title": "hcxdumptool",
+    "description": "Try to get PMKID with hcxdumptool & hcxpcaptool",
+    "version": "0.1",
+    "author": "z1k-0"
+}
